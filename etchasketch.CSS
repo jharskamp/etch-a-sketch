@@ -1,0 +1,25 @@
+#wrapper{
+	width:950px;
+	height:700px;
+	margin:65px auto;
+	background: #c0c0c0;
+}
+.square{
+	float:right;
+	height: 5px; width:5px;
+	border:1px solid black;
+	background: #c0c0c0;
+	padding:1px;
+	margin:auto;
+	display:inline-block;
+}
+
+.highlighted{
+	background:#4863a0;
+}
+.clicked{
+	background:black;
+}
+button{
+	float:right;
+}
